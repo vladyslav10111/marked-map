@@ -1,0 +1,19 @@
+{
+    "name": "vladyslav10111/marked-map",
+    "description": "Display Google Maps with coordinate-based markers via shortcode.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vladyslav10111\\MarkedMap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladyslav Tkachenko",
+            "email": "vladyslav10111@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
